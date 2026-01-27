@@ -297,6 +297,10 @@ and the failure modes that follow. It explains why AI attracts authority, why us
 misinterpret its outputs, and why design must actively prevent the collapse of  
 symbolic boundaries that sustain human interpretive agency.
 
+The dynamics described above are not limited to psychological or technological domains.  
+They also manifest in institutional systems that claim neutrality and universality.  
+International law provides a clear case study of how imperial meaning structures persist  
+and how they collapse under contemporary conditions.
 
 ---
 
@@ -1268,4 +1272,5 @@ A curated list of extended readings for:
 - AI ethics and sociotechnical systems  
 
 Useful for readers who want to explore the intellectual lineage further.　
+
 
