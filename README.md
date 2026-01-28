@@ -27,53 +27,53 @@ The manifesto proposes strategies to **prevent new centers from emerging** while
 ## Repository Structure
 
 ai-manifesto/
-├─ README.md  
-│ └─ Public-facing overview of the manifesto and repository updates (v2.0)  
-│
-├─ manifesto/  
-│ ├─ ai_manifesto.md  
-│ │ └─ Full manifesto text (post-imperial principles for AI)  
-│ │
-│ └─ principles.md  
-│ └─ Core design principles: non-authority, symbolic safety, designed distance, agency preservation  
-│
-├─ theory/  
-│ ├─ demiurge.md  
-│ │ └─ AI as Technological Demiurge  
-│ │ (partial world-construction without total knowledge)  
-│ │
-│ ├─ externalization.md  
-│ │ └─ Externalization of archetypal authority (myth → psyche → technology)  
-│ │
-│ ├─ empire_os.md  
-│ │ └─ Imperial meaning systems (historical unification of truth, reason, and authority)  
-│ │
-│ ├─ international_law_neutrality.md  
-│ |  └─ Post-imperial analysis of neutrality in international law and its symbolic role in modern governance 
-| |
-│ └─ international_law_neutrality_ja.md
-|   └─ 国際法における中立性の歴史的・構造的分析（日本語版）
+|-- README.md
+|   `-- Public-facing overview of the manifesto and repository updates (v2.0)
 |
-├─ diagrams/  
-│ └─ layered_model.md  
-│ └─ Three-layer structural model (religion / psychology / technology)  
-│
-├─ design/  
-│ ├─ dialogue.md  
-│ │ └─ Dialogue design principles for LLMs (non-oracular, destabilizing, pluralizing)  
-│ │
-│ ├─ ui_distance.md  
-│ │ └─ Interface patterns preserving distance between AI output and human judgment  
-│ │
-│ └─ failure_modes.md  
-│   └─ Failure patterns (totalization, archetypal possession, authority illusion)  
-│
-├─ paper/  
-│ └─ ai-manifesto_paper_v2.0.md  
-│ └─ Academic paper draft integrating manifesto and international law analysis  
-│ 
-└─ LICENSE  
-└─ Open license for post-imperial reuse
+|-- manifesto/
+|   |-- ai_manifesto.md
+|   |   `-- Full manifesto text (post-imperial principles for AI)
+|   |
+|   `-- principles.md
+|       `-- Core design principles: non-authority, symbolic safety, designed distance, agency preservation
+|
+|-- theory/
+|   |-- demiurge.md
+|   |   `-- AI as Technological Demiurge (partial world-construction without total knowledge)
+|   |
+|   |-- externalization.md
+|   |   `-- Externalization of archetypal authority (myth → psyche → technology)
+|   |
+|   |-- empire_os.md
+|   |   `-- Imperial meaning systems (historical unification of truth, reason, and authority)
+|   |
+|   |-- international_law_neutrality.md
+|   |   `-- Post-imperial analysis of neutrality in international law and its symbolic role in modern governance
+|   |
+|   `-- international_law_neutrality_ja.md
+|       `-- 国際法における中立性の歴史的・構造的分析（日本語版）
+|
+|-- diagrams/
+|   `-- layered_model.md
+|       `-- Three-layer structural model (religion / psychology / technology)
+|
+|-- design/
+|   |-- dialogue.md
+|   |   `-- Dialogue design principles for LLMs (non-oracular, destabilizing, pluralizing)
+|   |
+|   |-- ui_distance.md
+|   |   `-- Interface patterns preserving distance between AI output and human judgment
+|   |
+|   `-- failure_modes.md
+|       `-- Failure patterns (totalization, archetypal possession, authority illusion)
+|
+|-- paper/
+|   `-- ai-manifesto_paper_v2.0.md
+|       `-- Academic paper integrating manifesto and international law analysis
+|
+`-- LICENSE
+    `-- Open license for post-imperial reuse
+
 
 This structure reflects the manifesto’s **v2.0 emphasis**: AI, law, and institutional systems must be understood simultaneously as **historical**, **psychological**, and **technical** phenomena.
 
@@ -143,5 +143,6 @@ Reuse, remix, and fork are encouraged, under the condition of attribution and **
 
 For collaboration or inquiries:  
 https://github.com/YujiMarutani
+
 
 
