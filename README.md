@@ -1,5 +1,5 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18391894.svg)](https://doi.org/10.5281/zenodo.18391894)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18396433.svg)](https://doi.org/10.5281/zenodo.18396433)
+
 
 
 # AI MANIFESTO v2.0  
@@ -143,6 +143,7 @@ Reuse, remix, and fork are encouraged, under the condition of attribution and **
 
 For collaboration or inquiries:  
 https://github.com/YujiMarutani
+
 
 
 
