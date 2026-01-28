@@ -67,7 +67,7 @@ ai-manifesto/
 │   └─ Failure patterns (totalization, archetypal possession, authority illusion)  
 │
 ├─ paper/  
-│ └─ draft.md  
+│ └─ ai-manifesto_paper_v2.0.md  
 │ └─ Academic paper draft integrating manifesto and international law analysis  
 │ 
 └─ LICENSE  
@@ -143,3 +143,4 @@ Reuse, remix, and fork are encouraged, under the condition of attribution and **
 
 For collaboration or inquiries:  
 https://github.com/YujiMarutani
+
